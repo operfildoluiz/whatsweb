@@ -4,6 +4,7 @@
   "theme_color": "#009588",
   "background_color": "#eeeeee",
   "display": "standalone",
+  "start_url" : "/whatsweb",
   "icons": [
     {
       "src": "assets/images/icons/icon-72x72.png",
